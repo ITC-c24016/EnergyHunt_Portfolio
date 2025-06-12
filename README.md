@@ -14,6 +14,7 @@
 
 ## 担当プログラムファイル
 *[タイトルシーンのキャラクターアニメーションやUIプログラム](./ProjectDate/Energy_Hunt_v02/Assets/TitleScene/Script/TitleScript.cs)
+
 *[タイトルで使用するPlayer2のスクリプト](./ProjectDate/Energy_Hunt_v02/Assets/TitleScene/Script/Player2Script.cs)
 *[タイトルで使用するエネルギーコアのスクリプト](./ProjectDate/Energy_Hunt_v02/Assets/TitleScene/Script/EnergyCoreScript.cs)
 *[勝利したプレイヤーにカメラをフォーカスするプログラム](./ProjectDate/Energy_Hunt_v02/Assets/Title_ResultSceneFolder/SceneScript/CameraFocusScript.cs)
